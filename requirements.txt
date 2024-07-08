@@ -1,0 +1,13 @@
+opencv-python
+time
+colorama
+re
+requests
+bs4
+csv
+logging
+speechrecognition
+blessed
+googletrans
+pprint
+translate
